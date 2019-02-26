@@ -13,9 +13,8 @@ Práctica para el sprint de la segunda semana, correspondiente a los temas **2-S
 
 ## Requisitos previos
 
-- Copiar la aplicación de la práctica 1.
+- Partir de la funcionalidad de la aplicación de la práctica 1.
 
-- Crear la funcionalidad a partir de la misma
 
 ## Tareas
 
